@@ -1,2 +1,2 @@
 # JsSlideshow
-Simple javascriot slideshow.
+Simple javascript slideshow.
